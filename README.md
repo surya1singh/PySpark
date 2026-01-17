@@ -9,16 +9,13 @@
 Code in this repository is tested either on Databricks or [docker pyspark image](https://hub.docker.com/r/jupyter/pyspark-notebook)
 
 * Basic
-  * [create dataframes, read csv, json, parquet](/Core/Read-Import files)
+  * [create dataframes, read csv, json, parquet](</Core/Read-Import files>)
   * [operations select, filter, groupby, orderby, creating new column](/Core/Operations)
 * Intermediate operations
-  * UDF
-  * Break columns
-  * Combine columns
-  * Union
+  * [Split, concat, and UDF](</Intermediate operations/Spli, concat and UDF.ipynb>)
+  * [Pivot, Unpivot, explode, Union](</Intermediate operations/Pivot , Unpivot and Union.ipynb>)
   * Joins
   * Broadcast
-  * Pivot tables
 * Advanced operations
   * Window functions
   * Handle small files
