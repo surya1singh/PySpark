@@ -14,10 +14,10 @@ Code in this repository is tested either on Databricks or [docker pyspark image]
 * Intermediate operations
   * [Split, concat, and UDF](</Intermediate operations/Spli, concat and UDF.ipynb>)
   * [Pivot, Unpivot, explode, Union](</Intermediate operations/Pivot , Unpivot and Union.ipynb>)
-  * Joins
-  * Broadcast
+  * [Joins, broadcast](<Intermediate operations/Joins.ipynb>)
 * Advanced operations
   * Window functions
+  * [salt the key and AQE](</Advanced/Salt the key and AQE.ipynb>)
   * Handle small files
   * Filtering before shuffle
   * 
