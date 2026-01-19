@@ -16,11 +16,10 @@ Code in this repository is tested either on Databricks or [docker pyspark image]
   * [Pivot, Unpivot, explode, Union](</Intermediate operations/Pivot , Unpivot and Union.ipynb>)
   * [Joins, broadcast](<Intermediate operations/Joins.ipynb>)
 * Advanced operations
-  * Window functions
+  * [Window functions](</Advanced/Window Functions.ipynb>)
   * [salt the key and AQE](</Advanced/Salt the key and AQE.ipynb>)
   * [Join Reordering and Pre-Aggregation](</Advanced/Join Reordering and Pre-Aggregation.ipynb>)
   * Handle small files
-  * Filtering before shuffle
   * 
   
   
