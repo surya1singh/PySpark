@@ -20,6 +20,6 @@ Code in this repository is tested either on Databricks or [docker pyspark image]
   * [salt the key and AQE](</Advanced/Salt the key and AQE.ipynb>)
   * [Join Reordering and Pre-Aggregation](</Advanced/Join Reordering and Pre-Aggregation.ipynb>)
   * [Handle small files](<Advanced/Handle Small files.ipynb>)
-  * 
+  * [Self-Referencing Table](<Advanced/Self-Referencing Table.ipynb>)
   
   
